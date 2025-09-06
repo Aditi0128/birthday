@@ -122,7 +122,7 @@ export default function App() {
             🎉 Happy Birthday Vruddhi 🎉
           </h1>
           <p className="text-base sm:text-lg text-gray-700 mb-8">
-            With love, memes, and Taylor Swift vibes 💖
+            With love, memes, and Taylor Swift vibes from aditi 💖
           </p>
 
           <button
